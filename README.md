@@ -1,4 +1,4 @@
-# ColorCodeFinder
+# colorFIND - A simple color code finder program
 
 
 ## Description 
