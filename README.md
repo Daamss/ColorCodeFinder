@@ -2,7 +2,7 @@
 
 
 ## Description 
-Find the color code of anything just by hovering over it with your mouse!
+Find the color code of anything just by hovering over it with your mouse! - Created using OpenAI
 
 
 ## Installation 
